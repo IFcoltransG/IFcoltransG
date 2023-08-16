@@ -3,6 +3,6 @@ I'm IFcoltransG — which I'm sure y'all'd've figured out by now. I'm interested
 
 I'd tell you what I've made recently, but it'd only grow out of sync with my pinned repos.
 
-Currently in progress, last I updated this: *Imperial*, a programming language; *Tarot*, a programming language; *Spotify Annotator*, a web tool; *Furlong*, an editor bookmarklet; and *world peace*, a dream.
+Currently in progress, last I updated this: *BUUZA!! Wiki*, a site using Jekyll Wiki; *Jekyll Wiki*, a static site template; *It Is An Innkeeper*, a game-jam interactive fiction game; and *world peace*, a dream.
 
 If you need to contact me, feel free to do it over [GitHub](https://github.com/IFcoltransG). If it's an emergency and I haven't responded, wait a few days and try again. I'm also elsewhere, mostly with the same username. You get bonus points if you know what it means.
