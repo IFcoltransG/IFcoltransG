@@ -1,8 +1,13 @@
-### Season's greetings!
-I'm IFcoltransG — which I'm sure y'all'd've figured out by now. I'm interested in the intersection between how humans and computers assign meaning to symbols: the space partway between poem and programme. Pronouns are [they/them](https://pronoun.is/they), please. I use British or British-adjacent spelling and full sentences almost everywhere, so I'm not snubbing you with my (some would say excessive) full stops. I know far too many eccentricities of Python, Norse mythology and superseded science for my own good.
+### Season's greetings! ⛅
 
-I'd tell you what I've made recently, but it'd only grow out of sync with my pinned repos.
+I'm IFcoltransG — which I'm sure y'all'd've figured out by now. I work on several projects at a time, but check out my pinned repos below for some of the most interesting ones.
+ <figure>    
+  <figcaption><em>Screenshot from <a href="https://github.com/IFcoltransG/lapidary-image-generator/">Lapidary Image Generator</a></em></figcaption>
+  <img src="https://github.com/ifcoltransg/lapidary-image-generator/blob/main/images/apotheosis.png" width="500" alt="Lapidary project output">
+</figure>
 
-Currently in progress, last I updated this: *BUUZA!! Wiki*, a site using Jekyll Wiki; *Jekyll Wiki*, a static site template; *It Is An Innkeeper*, a game-jam interactive fiction game; and *world peace*, a dream.
+The projects that excite me are often game dev, coding language design, or tooling for the technologies I love (such as Rust, Ink and WebAssembly). You can also read my writing-related repos, such as technical guides, wiki websites and poetry. 
 
-If you need to contact me, feel free to do it over [GitHub](https://github.com/IFcoltransG). If it's an emergency and I haven't responded, wait a few days and try again. I'm also elsewhere, mostly with the same username. You get bonus points if you know what it means.
+![General Github Stats](https://github-readme-stats.vercel.app/api?username=ifcoltransg&count_private=true&show_icons=true&rank_icon=github)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifcoltransg&layout=donut)
